@@ -1,0 +1,17 @@
+.todo-list .list-group-item {
+    padding: .25rem .75rem;
+}
+
+#myTable {
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+#myTable td, #myTable th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+#root {
+    padding: 20px;
+}
